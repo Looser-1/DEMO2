@@ -1,0 +1,31 @@
+{
+  "summary": "MRI Analysis Report - EXCELLENT quality scan",
+  "findings": [
+    "Brain tissue appears normal",
+    "No significant mass lesions detected",
+    "Ventricular system within normal limits",
+    "No signs of acute hemorrhage"
+  ],
+  "recommendations": [
+    "Continue routine monitoring",
+    "Follow up in 6 months",
+    "Consider contrast study if symptoms persist"
+  ],
+  "technicalDetails": {
+    "brainStructures": [
+      "Frontal lobe - normal",
+      "Parietal lobe - normal",
+      "Temporal lobe - normal",
+      "Occipital lobe - normal",
+      "Cerebellum - normal"
+    ],
+    "abnormalities": [],
+    "measurements": {
+      "ventricleSize": "normal",
+      "midlineShift": "none",
+      "brainVolume": "within normal limits"
+    }
+  },
+  "confidence": 0.94,
+  "generatedAt": "2025-07-13T03:26:35.484Z"
+}
